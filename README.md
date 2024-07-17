@@ -1,5 +1,5 @@
-Founder of DTR
-Definition of Autistic Yapping
+- Founder of DTR
+- Definition of Autistic Yapping
 
 <!---
 braxtonhuntnissen/braxtonhuntnissen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
